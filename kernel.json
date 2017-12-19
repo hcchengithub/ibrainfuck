@@ -1,0 +1,11 @@
+// Copy this file to this path address:
+// c:\Users\hcche\AppData\Roaming\jupyter\kernels\brainfuck\kernel.json 
+{
+  "argv": [
+    "python",
+    "c:\\Users\\hcche\\Documents\\GitHub\\ibrainfuck\\brainfuckkernel.py",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "brainfuck"
+}
